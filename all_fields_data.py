@@ -2064,7 +2064,7 @@ fields_data = {
     },
     "Mobile Number": {
         "field_name": "Mobile Number",
-        "field_desc": "Mobile phone number",
+        "field_desc": "10 digit Mobile phone number",
         "options": []
     },
     "Name of exam": {
